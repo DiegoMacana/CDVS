@@ -1,6 +1,6 @@
 # CDVS
-## Natalia Orjuela <br>
-**Edad:** 21 años
+## Natalia Orjuela 
+**Edad:** 21 años <br>
 **Fecha De Nacimiento:** 08/09/1999
 **Lugar De Nacimiento:** Girardot;Colombia
 **
