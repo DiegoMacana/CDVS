@@ -84,3 +84,4 @@ yei, por fin la actualidad, ya casi podre ir a dormir, son las 12:pucho juemadre
 - datos básicos: sangre 0+, 7mo semestre y se cocinar
 - plan de estudios: el que no tiene que ver calv 💙
 
+![image](https://user-images.githubusercontent.com/59974540/130070795-e4a56441-4a43-424a-a1df-107d33926cc9.png)
