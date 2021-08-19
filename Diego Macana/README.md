@@ -65,6 +65,22 @@ no tengo mucho que decir en este apartado, inicio la cuarentena, las actividades
 ![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20201105-WA0056.jpg)
 :bear: Hibernando en cuarentena añañay, esa foto fue en semana de parciales, jajaja me peine para la ocasión 
 
+---
 
+# 2021 
 
+yei, por fin la actualidad, ya casi podre ir a dormir, son las 12:pucho juemadre hay mucha tarea, no hay mucho que contar, ya veo el final del tunel en la carrera, retorne a mis practicas en los deportes y sigo dando clases de python, ante ojos escepticos aun soy un estupido, eso jamas cambiara y me alegra, los inteligentes no tienen la dicha de sorprenderse por cosas tan cotidianas como el abrir una bolsa de leche con el sofa de la casa (gran anecdota). FIN
+
+![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20201129-WA0018.jpg)
+:cat: para los que quieren ver fotos de mishis, aca la mia, igual de fotogenica al papá
+
+![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20201129-WA0026.jpg)
+🐈 me referia a esta foto xdd, igualita a mi jajaa la amo
+
+---
+
+informacion adicional, 
+nombre:Diego Macana Naranjo
+datos básicos: sangre 0+, 7mo semestre y se cocinar
+plan de estudios: el que no tiene que ver calv 💙
 
