@@ -31,12 +31,13 @@ aprendi que era bruto y que esta ingenieria costaria mi tranquilidad...
 abandone la universidad 3 semestres...
 ---
 # 2018
+
 I learned english in "Colombo Americano" to recover the energy to study
-I  cried when i had a five in english, maybe i had the idea that i was stupid.
+I cried when i had a five in english, maybe i had the idea that i was stupid.
 actually I want to go to the past and say me, don't cry!! you will be stupid ever, the glow up it's so imposible in you!!
 perdi un poco la practica, espero se entienda, jajaja la cosa es que volvi a la universidad en 2018-2 
 ---
-![]https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20200806-WA0031.jpeg
+![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20200806-WA0031.jpeg)
 :sparkling_heart:SO HAPPY FOR RETURN
 
 
