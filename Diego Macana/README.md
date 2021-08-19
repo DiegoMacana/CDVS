@@ -45,17 +45,25 @@ perdi un poco la practica, espero se entienda, jajaja la cosa es que volvi a la 
 
 ---
 
-#2019 
+# 2019 
 
-agarre confianza en mi mismo, ya no era tan estupido supongo, asi que decidi empezar a dar clases de python, al inicio fue algo complejo,
-pero con el tiempo me di cuenta que esa era mi vocacion... gran bofetada... el bruto queriendo enseñar, pero tiene logica, *si yo no pude aprender
-facilmente, tratare de enseñar para que otros si puedan* 
+agarre confianza en mí mismo, ya no era tan estúpido supongo, así que decidí empezar a dar clases de Python, al inicio fue algo complejo,
+pero con el tiempo me di cuenta que esa era mi vocación... gran bofetada... el bruto queriendo enseñar, pero tiene lógica, *si yo no pude aprender
+fácilmente, tratare de enseñar para que otros si puedan* 
 
 ![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG_20200423_122857_694.jpg)
-:rabbit2: salte mucho de la felicidad cuando un chico me invito una hamburgesa porque la programacion se le habia complicado hasta que le enseñe - son palabras de el, no mias, por eso salte!
+:rabbit2: salte mucho de la felicidad cuando un chico me invito una hamburguesa porque la programación se le había complicado hasta que le enseñe - son palabras de él, no mías, por eso salte!
 
 ---
 
+# 2020
+
+estúpido año, creo que este año me hizo madurar a las malas, me metió en periódico literal. La forma más rápida para madurar es darse cuenta que la vida es un parpadeo, que hoy tienes personas valiosas y al otro día puede que ya no estén...
+no tengo mucho que decir en este apartado, inicio la cuarentena, las actividades que venía realizando se fueron a la MIE!"#@, el presidente: pig2: cometió muchos errores... qué año tan horrible. Lo único bueno fue aprobar mis materias... cosa que ya dejaba en duda mi estupidez. supongo jaja
+
+
+![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20201105-WA0056.jpg)
+:bear: Hibernando en cuarentena añañay, esa foto fue en semana de parciales, jajaja me peine para la ocasión 
 
 
 
