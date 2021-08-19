@@ -14,7 +14,7 @@
 > este ejercicio lo tomare para mostrar un poco de mi vida como tal.
 
 ---
-#2016
+# 2016
  todo mi cuestionamiento empezo el dia que adjunte un trabajo de sistemas que no pude solucionar con este fragmento de codigo: 
 
 ```python
@@ -30,7 +30,7 @@ aprendi que era bruto y que esta ingenieria costaria mi tranquilidad...
 :sob: *fue un choque saber que era brutico y me deje crecer el cabello*
 abandone la universidad 3 semestres...
 ---
-#2018
+# 2018
 I learned english in "Colombo Americano" to recover the energy to study
 I  cried when i had a five in english, maybe i had the idea that i was stupid.
 actually I want to go to the past and say me, don't cry!! you will be stupid ever, the glow up it's so imposible in you!!
