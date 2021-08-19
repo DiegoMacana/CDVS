@@ -1,4 +1,4 @@
-# Diego Fernando Macana ✨
+# Diego Fernando Macana Naranjo ✨
 
 ---
 
