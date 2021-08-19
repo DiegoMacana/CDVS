@@ -86,6 +86,6 @@ yei, por fin la actualidad, ya casi podre ir a dormir, son las 12:pucho juemadre
 
 tambien aprendi git 💙
 
-![image](https://user-images.githubusercontent.com/59974540/130070795-e4a56441-4a43-424a-a1df-107d33926cc9.png)
+![image](https://user-images.githubusercontent.com/59974540/130071412-98055fe2-61e7-41c1-8e25-01f1f71438c8.png)
 ![image](https://user-images.githubusercontent.com/59974540/130070863-d06dd5f3-b68c-4e65-b19f-8ddbe33a0bbf.png)
 
