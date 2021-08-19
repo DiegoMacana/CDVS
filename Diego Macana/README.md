@@ -79,8 +79,8 @@ yei, por fin la actualidad, ya casi podre ir a dormir, son las 12:pucho juemadre
 
 ---
 
-informacion adicional, 
-nombre:Diego Macana Naranjo
-datos básicos: sangre 0+, 7mo semestre y se cocinar
-plan de estudios: el que no tiene que ver calv 💙
+- informacion adicional, 
+- nombre:Diego Macana Naranjo
+- datos básicos: sangre 0+, 7mo semestre y se cocinar
+- plan de estudios: el que no tiene que ver calv 💙
 
