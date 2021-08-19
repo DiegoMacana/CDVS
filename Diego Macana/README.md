@@ -3,7 +3,7 @@
 
 ---
 
-> mi frase de vida es: Primero persona que ingeniero
+> mi frase de vida es: *"Primero persona que ingeniero"*
 
 ---
 
