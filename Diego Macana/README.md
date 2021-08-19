@@ -43,6 +43,19 @@ perdi un poco la practica, espero se entienda, jajaja la cosa es que volvi a la 
 ![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20200806-WA0031.jpeg)
 :sparkling_heart: SO HAPPY FOR RETURN
 
+---
+
+#2019 
+
+agarre confianza en mi mismo, ya no era tan estupido supongo, asi que decidi empezar a dar clases de python, al inicio fue algo complejo,
+pero con el tiempo me di cuenta que esa era mi vocacion... gran bofetada... el bruto queriendo enseñar, pero tiene logica, *si yo no pude aprender
+facilmente, tratare de enseñar para que otros si puedan* 
+
+![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG_20200423_122857_694.jpg)
+:rabbit2: salte mucho de la felicidad cuando un chico me invito una hamburgesa porque la programacion se le habia complicado hasta que le enseñe - son palabras de el, no mias, por eso salte!
+
+---
+
 
 
 
