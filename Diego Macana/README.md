@@ -59,7 +59,7 @@ fácilmente, tratare de enseñar para que otros si puedan*
 # 2020
 
 estúpido año, creo que este año me hizo madurar a las malas, me metió en periódico literal. La forma más rápida para madurar es darse cuenta que la vida es un parpadeo, que hoy tienes personas valiosas y al otro día puede que ya no estén...
-no tengo mucho que decir en este apartado, inicio la cuarentena, las actividades que venía realizando se fueron a la MIE!"#@, el presidente: pig2: cometió muchos errores... qué año tan horrible. Lo único bueno fue aprobar mis materias... cosa que ya dejaba en duda mi estupidez. supongo jaja
+no tengo mucho que decir en este apartado, inicio la cuarentena, las actividades que venía realizando se fueron a la MIE!"#@, el presidente :pig2: cometió muchos errores... qué año tan horrible. Lo único bueno fue aprobar mis materias... cosa que ya dejaba en duda mi estupidez. supongo jaja
 
 
 ![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20201105-WA0056.jpg)
