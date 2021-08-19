@@ -25,5 +25,6 @@ el siguiente es el link del grupo de baile:[(https://www.instagram.com/stepkings
 #PARTE III. - GIT BRANCHING
 
 ![image](https://user-images.githubusercontent.com/54339107/129989460-f01c6e16-c1ad-4b5d-8fe3-379f025bcb1d.png)
+![image](https://user-images.githubusercontent.com/54339107/129992002-a50e40fc-5412-476d-a18f-d7e8d6e78732.png)
 
 
