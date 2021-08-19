@@ -69,7 +69,7 @@ no tengo mucho que decir en este apartado, inicio la cuarentena, las actividades
 
 # 2021 
 
-yei, por fin la actualidad, ya casi podre ir a dormir, son las 12:pucho juemadre hay mucha tarea, no hay mucho que contar, ya veo el final del tunel en la carrera, retorne a mis practicas en los deportes y sigo dando clases de python, ante ojos escepticos aun soy un estupido, eso jamas cambiara y me alegra, los inteligentes no tienen la dicha de sorprenderse por cosas tan cotidianas como el abrir una bolsa de leche con el sofa de la casa (gran anecdota). FIN
+yei, por fin la actualidad, ya casi podre ir a dormir, son las 12:pucho juemadre hay mucha tarea, no hay mucho que contar, ya veo el final del túnel en la carrera, retorne a mis prácticas en los deportes y sigo dando clases de python, ante ojos escépticos aun soy un estúpido, eso jamás cambiara y me alegra, los inteligentes no tienen la dicha de sorprenderse por cosas tan cotidianas como el abrir una bolsa de leche con el sofá de la casa (gran anécdota). FIN
 
 ![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG-20201129-WA0018.jpg)
 :cat: para los que quieren ver fotos de mishis, aca la mia, igual de fotogenica al papá
