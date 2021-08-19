@@ -1,12 +1,13 @@
 # Diego Fernando Macana ✨
+
 -----------
 
 ---
 
-> mi frase de vida es: *"Primero persona que ingeniero"*
+> Mi frase actual: *"Primero persona que ingeniero"*
 
 ---
 
-
+![](https://github.com/DiegoMacana/CDVS/blob/main/Imagenes/IMG_20200830_115725_804.jpg)
 
 
