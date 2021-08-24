@@ -26,5 +26,10 @@ Para ver el conjunto de archivos y directorios creados por el comando mvn ejecut
     </properties>
 ~~~
 ![image](https://user-images.githubusercontent.com/54339107/130560589-9e5574a0-06db-485d-9273-f587f446bcc3.png)
+## COMPILAR Y EJECUTAR
+1) Para compilar ejecute el comando:
+~~~
+mvn package
+~~~
 ![image](https://user-images.githubusercontent.com/54339107/130560627-5296213f-9b49-4b2d-9f60-84c5e5a6236c.png)
 
