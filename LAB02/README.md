@@ -33,3 +33,47 @@ mvn package
 ~~~
 ![image](https://user-images.githubusercontent.com/54339107/130560627-5296213f-9b49-4b2d-9f60-84c5e5a6236c.png)
 
+2) Busque cuál es el objetivo del parámetro "package" y qué otros parámetros se podrían enviar al comando mvn.
+3) Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando se ejecuta con la clase App.java como parámetro en "mainClass".
+4) Realice el cambio en la clase App.java para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación. Utilizar la primera posición del parámetro que llega al método "main" para realizar el saludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
+5) package edu.eci.cvds.patterns;
+~~~
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	private String nombre;
+	
+	public  Saludo() {
+		nombre= "Hello World!";
+	}
+	
+    public  Saludo( String nombre ) 
+    {
+    	this.nombre="Hello"+ nombre;
+    }
+    
+    public String getNombre() {
+    	return nombre;
+    }
+    public static void main( String[] args )
+    {
+    	Saludo saludo=new Saludo();
+    	System.out.println(saludo.getNombre());
+    }        
+}
+~~~
++ Buscar cómo enviar parámetros al plugin "exec".
+~~~
+mvn exec:exec -Dexec.executable="maven" [-Dexec.workingdir="/tmp"] -Dexec.args="-X myproject:dist"
+~~~
+* Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
+
+* Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
+* Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
+* Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
+* Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
+
+
