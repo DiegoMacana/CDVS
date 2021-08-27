@@ -77,7 +77,7 @@ mvn exec:java
 HACER EL ESQUELETO DE LA APLICACION
 Cree el paquete edu.eci.cvds.patterns.shapes y el paquete edu.eci.cvds.patterns.shapes.concrete.
 Cree una interfaz llamada Shape.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes de la siguiente manera:
-
+~~~
 package edu.eci.cvds.patterns.shapes;
 
 public interface Shape {
@@ -90,8 +90,9 @@ package edu.eci.cvds.patterns.shapes;
 public enum RegularShapeType {
     Triangle, Quadrilateral, Pentagon, Hexagon
 }
+~~~
 En el directorio src/main/java/edu/eci/cvds/patterns/shapes/concrete cree las diferentes clases (Triangle, Quadrilateral, Pentagon, Hexagon), que implementen la interfaz creada y retornen el número correspondiente de vértices que tiene la figura. Siguiendo el ejemplo del triangulo:
-
+~~~
 package edu.eci.cvds.patterns.shapes.concrete;
 
 import edu.eci.cvds.patterns.shapes.Shape;
@@ -101,8 +102,9 @@ public class Triangle implements Shape {
         return 3;
     }
 }
+~~~
 Cree el archivo ShapeMain.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes con el metodo main:
-
+~~~
 package edu.eci.cvds.patterns.shapes;
 
 public class ShapeMain {
@@ -124,6 +126,7 @@ public class ShapeMain {
         }
     }
 }
+~~~
 Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente.
 Cree el archivo ShapeFactory.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes implementando el patrón fábrica, haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
 
