@@ -37,37 +37,30 @@ mvn package
 3) Busque cómo ejecutar desde línea de comandos, un proyecto maven y verifique la salida cuando se ejecuta con la clase App.java como parámetro en "mainClass".
 4) Realice el cambio en la clase App.java para crear un saludo personalizado, basado en los parámetros de entrada a la aplicación. Utilizar la primera posición del parámetro que llega al método "main" para realizar el saludo personalizado, en caso que no sea posible, se debe mantener el saludo como se encuentra actualmente:
 5) package edu.eci.cvds.patterns;
+6) ![image](https://user-images.githubusercontent.com/54339107/131158106-e2af01a4-224f-4b22-a69e-50d5020ce72a.png)
+
 ~~~
+package edu.eci.cvds.patterns;
+
 /**
  * Hello world!
  *
  */
-public class App 
-{
-	private String nombre;
-	
-	public  Saludo() {
-		nombre= "Hello World!";
-	}
-	
-    public  Saludo( String nombre ) 
-    {
-    	this.nombre="Hello"+ nombre;
+public class App{
+    public static void main(String[] args){
+        if(String.join("",args)==""){
+            System.out.println("Hello World!");
+        }
+        else{
+            System.out.println("Hello "+String.join(" ",args)+"!");
+        }
     }
-    
-    public String getNombre() {
-    	return nombre;
-    }
-    public static void main( String[] args )
-    {
-    	Saludo saludo=new Saludo();
-    	System.out.println(saludo.getNombre());
-    }        
 }
+
 ~~~
 + Buscar cómo enviar parámetros al plugin "exec".
 ~~~
-mvn exec:exec -Dexec.executable="maven" [-Dexec.workingdir="/tmp"] -Dexec.args="-X myproject:dist"
+mvn exec:java
 ~~~
 * Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
 
