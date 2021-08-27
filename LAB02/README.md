@@ -63,10 +63,11 @@ public class App{
 mvn exec:java
 ~~~
 * Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
-
 * Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
 * Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
 * Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
 * Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
+![image](https://user-images.githubusercontent.com/54339107/131159090-58de2d46-b8f4-488e-8574-48679e92909b.png)
+
 
 
