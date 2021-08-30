@@ -127,14 +127,14 @@ public class ShapeMain {
     }
 }
 ~~~
-Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente.
-Cree el archivo ShapeFactory.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes implementando el patrón fábrica, haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
+* Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente.
+* Cree el archivo ShapeFactory.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes implementando el patrón fábrica, haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
 
-Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+* Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
 
-Sin parámetros
-Parámetro: qwerty
-Parámetro: pentagon
-Parámetro Hexagon
-¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+* Sin parámetros
+* Parámetro: qwerty
+* Parámetro: pentagon
+* Parámetro Hexagon
+* ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
