@@ -1,5 +1,6 @@
 package edu.eci.cvds.patterns.shapes;
 
-public class RegularShapeType extends ShapeFactory{
+public enum RegularShapeType {
+    Triangle,Hexagon,Pentagon,Quadrilateral
     
 }

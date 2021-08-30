@@ -37,8 +37,8 @@
           <goals><goal>java</goal></goals>
         </execution></executions>
         <configuration>
-          <mainClass>edu.eci.cvds.patterns.App</mainClass>
-          <arguments>natalia</arguments>
+          <mainClass>edu.eci.cvds.patterns.shapes.ShapeMain</mainClass>
+          <arguments>pentagon</arguments>
         </configuration>
 		</plugin>
 	</plugins>
