@@ -68,6 +68,9 @@ mvn exec:java
 * Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
 * Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
 ![image](https://user-images.githubusercontent.com/54339107/131159090-58de2d46-b8f4-488e-8574-48679e92909b.png)
+![image](https://user-images.githubusercontent.com/54339107/131414824-e6f81ed1-bde9-4be6-86b8-c5aa280525da.png)
+![image](https://user-images.githubusercontent.com/54339107/131414856-f742f142-fac9-4570-bb58-40043e9359f3.png)
+
 
 ---
 # Parte 2
