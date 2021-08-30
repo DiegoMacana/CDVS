@@ -139,5 +139,7 @@ public class ShapeMain {
 * Parámetro: qwerty
 * Parámetro: pentagon
 * Parámetro Hexagon
+* ![image](https://user-images.githubusercontent.com/54339107/131415828-32beffa6-626a-4ded-89f9-4ee8c9600c96.png)
+
 * ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
