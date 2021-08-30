@@ -8,6 +8,10 @@ public class ShapeFactory{
 				return new Triangle();
 			case Hexagon:
 				return new Hexagon();
+			case Pentagon:
+				return new Pentagon();
+			case Quadrilateral:
+				return new Quadrilateral();
 			default:
 				throw new IllegalStateException("type didn't found"+x);
 		}
