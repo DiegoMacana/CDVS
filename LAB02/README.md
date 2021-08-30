@@ -64,10 +64,14 @@ mvn exec:java
 ~~~
 * Ejecutar nuevamente la clase desde línea de comandos y verificar la salida: Hello World!
 * Ejecutar la clase desde línea de comandos enviando su nombre como parámetro y verificar la salida. Ej: Hello Pepito!
+* ![image](https://user-images.githubusercontent.com/54339107/131414856-f742f142-fac9-4570-bb58-40043e9359f3.png)
 * Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
 * Verifique cómo enviar los parámetros de forma "compuesta" para que el saludo se realice con nombre y apellido.
 * Ejecutar nuevamente y verificar la salida en consola. Ej: Hello Pepito Perez!
 ![image](https://user-images.githubusercontent.com/54339107/131159090-58de2d46-b8f4-488e-8574-48679e92909b.png)
+
+
+
 
 ---
 # Parte 2
@@ -127,14 +131,23 @@ public class ShapeMain {
     }
 }
 ~~~
-Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente.
-Cree el archivo ShapeFactory.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes implementando el patrón fábrica, haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
+* Analice y asegúrese de entender cada una de las instrucciones que se encuentran en todas las clases que se crearon anteriormente.
+* Cree el archivo ShapeFactory.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes implementando el patrón fábrica, haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
 
-Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+* Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+![image](https://user-images.githubusercontent.com/54339107/131416235-ece2f0dd-935a-4ec5-854c-7eb68461d66e.png)
 
-Sin parámetros
-Parámetro: qwerty
-Parámetro: pentagon
-Parámetro Hexagon
-¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
+* Sin parámetros
+* ![image](https://user-images.githubusercontent.com/54339107/131416346-a3a9f1fb-f972-4796-9ca5-f9bec360db21.png)
+* Parámetro: qwerty
+* ![image](https://user-images.githubusercontent.com/54339107/131416386-d0746dc3-9528-45d8-a9c4-f60da11ffe92.png)
+* Parámetro: pentagon
+![image](https://user-images.githubusercontent.com/54339107/131416432-93be52df-2d96-4fb3-92a6-965fec96f483.png)
+
+* Parámetro Hexagon
+* ![image](https://user-images.githubusercontent.com/54339107/131415828-32beffa6-626a-4ded-89f9-4ee8c9600c96.png)
+
+* ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+todas las instrucciones se ejecutan correctamente ya que evalua bien cada uno de los criterios.
