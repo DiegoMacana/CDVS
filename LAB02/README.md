@@ -135,12 +135,19 @@ public class ShapeMain {
 * Cree el archivo ShapeFactory.java en el directorio src/main/java/edu/eci/cvds/patterns/shapes implementando el patrón fábrica, haciendo uso de la instrucción switch-case de Java y usando las enumeraciones.
 
 * Ejecute múltiples veces la clase ShapeMain, usando el plugin exec de maven con los siguientes parámetros y verifique la salida en consola para cada una:
+![image](https://user-images.githubusercontent.com/54339107/131416235-ece2f0dd-935a-4ec5-854c-7eb68461d66e.png)
+
 
 * Sin parámetros
+* ![image](https://user-images.githubusercontent.com/54339107/131416346-a3a9f1fb-f972-4796-9ca5-f9bec360db21.png)
 * Parámetro: qwerty
+* ![image](https://user-images.githubusercontent.com/54339107/131416386-d0746dc3-9528-45d8-a9c4-f60da11ffe92.png)
 * Parámetro: pentagon
+![image](https://user-images.githubusercontent.com/54339107/131416432-93be52df-2d96-4fb3-92a6-965fec96f483.png)
+
 * Parámetro Hexagon
 * ![image](https://user-images.githubusercontent.com/54339107/131415828-32beffa6-626a-4ded-89f9-4ee8c9600c96.png)
 
 * ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
 
+todas las instrucciones se ejecutan correctamente ya que evalua bien cada uno de los criterios.
