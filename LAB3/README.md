@@ -25,7 +25,9 @@ Edite el archivo pom.xml y realice las siguientes actualizaciones:
         <maven.compiler.source>1.8</maven.compiler.source>
     </properties>
 ~~~
-** antes: **
+**antes:**
 ![image](https://user-images.githubusercontent.com/54339107/131945152-70da545a-cb69-4e65-875a-3365a4e2cb90.png)
+**despúes:**
+![image](https://user-images.githubusercontent.com/54339107/131945602-0c977d69-96da-485d-8d7d-4672cc7af3c9.png)
 
 
