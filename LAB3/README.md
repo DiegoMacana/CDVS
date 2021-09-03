@@ -273,7 +273,7 @@ Tambien puede utilizar:
 $ mvn test
 ~~~
 Revise cual es la diferencia. <br>
-la diferencia es que con el comando mvn package obtenemos como resultado que corrio un test mientras que con el comando mvn test obtenemos que se ejecutaron 2 test.
+la diferencia es que con el comando mvn package se ejecuta cada resultado independiente se muestra cada resultado de cada test mientras que con el comando mvn test obtenemos inmediatamente el resultado de los dos test.
 
 ![image](https://user-images.githubusercontent.com/54339107/131949408-ec471543-9b19-4cd7-881f-5fd47afadbb9.png)
 
