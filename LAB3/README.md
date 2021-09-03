@@ -58,3 +58,223 @@ public enum RegisterResult {
         DEAD, UNDERAGE, INVALID_AGE, VALID, DUPLICATED
 }
 ~~~
+Cree el archivo Gender.java en el paquete edu.eci.cvds.tdd.registry con la enumeración:
+~~~
+package edu.eci.cvds.tdd.registry;
+
+public enum Gender {
+
+    MALE, FEMALE, UNIDENTIFIED;
+}
+~~~
+Cree el archivo Person.java en el paquete edu.eci.cvds.tdd.registry con el siguiente contenido:
+~~~
+package edu.eci.cvds.tdd.registry;
+
+/**
+ * Person representation Class
+ */
+public class Person {
+
+    /**
+     * Person's name
+     */
+    private String name;
+
+    /**
+     * A person's identification number
+     */
+    private int id;
+
+    /**
+     * Person's age
+     */
+    private int age;
+
+    /**
+     * Person's gender
+     */
+    private Gender gender;
+    
+    /**
+     * Flag to specify if a person is alive
+     */
+    private boolean alive;
+
+    /**
+     * The class' default constructor
+     */
+    public Person() {
+        super();
+    }
+
+    /**
+     * A person constructor with all the information
+     *
+     * @param name the name
+     * @param id the identification number
+     * @param age the age
+     * @param gender the gender
+     * @param alive if the person is alive
+     */
+    public Person(String name, int id, int age, Gender gender, boolean alive) {
+        this.name = name;
+        this.id = id;
+        this.age = age;
+        this.gender = gender;
+        this.alive = alive;
+    }
+
+    /**
+     * Returns the person name
+     * 
+     * @return the name
+     */
+    public String getName() {
+        return name;
+    }
+
+    /**
+     * Returns the person identification number
+     * 
+     * @return the identification Number
+     */
+    public int getId() {
+        return id;
+    }
+
+    /**
+     * Returns this person's age
+     * 
+     * @return the age
+     */
+    public int getAge() {
+        return age;
+    }
+
+    /**
+     * Returns the gender
+     * 
+     * @return the gender
+     */
+    public Gender getGender() {
+        return gender;
+    }
+
+    /**
+     * Returns if the person is alive
+     * 
+     * @return the alive
+     */
+    public boolean isAlive() {
+        return alive;
+    }
+
+    /**
+     * Sets the person name
+     * 
+     * @param name the name to set
+     */
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    /**
+     * Sets the person identification number
+     * 
+     * @param id the identification Number to set
+     */
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    /**
+     * Sets the person age
+     * 
+     * @param age the age to set
+     */
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    /**
+     * Sets the person gender
+     * 
+     * @param gender the gender to set
+     */
+    public void setGender(Gender gender) {
+        this.gender = gender;
+    }
+
+    /**
+     * Sets the flag to specify if this person is alive
+     * 
+     * @param alive the alive to set
+     */
+    public void setAlive(boolean alive) {
+        this.alive = alive;
+    }
+
+    /**
+     * @{inheritdoc}
+     */
+    @Override
+    public String toString() {
+        return "Person [name=" + name + ", id=" + id + ", age=" + age + ", gender=" + gender + ", alive=" + alive + "]";
+    }
+
+}
+~~~
+* Cree el archivo Registry.java en el directorio edu.eci.cvds.tdd.registry con el método registerVoter:
+~~~
+package edu.eci.cvds.tdd.registry;
+
+public class Registry {
+    public RegisterResult registerVoter(Person p) {
+
+        // TODO Validate person and return real result.
+        return RegisterResult.VALID;
+    }
+}
+~~~
+* Cree la misma estructura de paquetes edu.eci.cvds.tdd.registry en la ruta src/test/java. Todos los archivos relacionados específicamente con los temas de pruebas, siempre deben ir bajo la carpeta test.
+
+* Bajo la carpeta de pruebas, cree la clase RegistryTest.java en el directorio edu.eci.cvds.tdd.registry de la siguiente manera:
+~~~
+package edu.eci.cvds.tdd.registry;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class RegistryTest {
+
+    private Registry registry = new Registry();
+
+    @Test
+    public void validateRegistryResult() {
+
+        Person person = new Person();
+
+        RegisterResult result = registry.registerVoter(person);
+
+        Assert.assertEquals(RegisterResult.VALID, result);
+    }
+
+    // TODO Complete with more test cases
+}
+~~~
+## EJECUTAR LAS PRUEBAS
+Para correr las pruebas utilice
+~~~
+$ mvn package
+~~~
+Tambien puede utilizar:
+~~~
+$ mvn test
+~~~
+Revise cual es la diferencia. <br>
+la diferencia es que con el comando mvn package obtenemos como resultado que corrio un test mientras que con el comando mvn test obtenemos que se ejecutaron 2 test.
+
+![image](https://user-images.githubusercontent.com/54339107/131949408-ec471543-9b19-4cd7-881f-5fd47afadbb9.png)
+
+![image](https://user-images.githubusercontent.com/54339107/131949389-29711c85-ad75-4a59-831a-68d305bc91ff.png)
