@@ -38,5 +38,23 @@ Edite el archivo pom.xml y realice las siguientes actualizaciones:
 
 ![image](https://user-images.githubusercontent.com/54339107/131946130-0c56b702-f57f-4583-99eb-96442d8b212b.png)
 
+## EJERCICIO “REGISTRADURÍA”
 
+Se va a crear un proyecto base para un requerimiento de la registraduría en el cual se registrarán personas con intención de votar paras las próximas elecciones y se generarán los certificados electorales de aquellas personas cuyo voto sea válido.
 
+Se usará la clase de persona que ya fue creada. El servicio de la registradiría permitirá registrar personas que sean votantes
+
+## PROPIEDADES
+* Solo se registrarán votantes válidos
+* Solo se permite una inscripción por número de documento
+
+## HACER EL ESQUELETO DE LA APLICACION
+
+Cree el archivo RegisterResult.java en el directorio edu.eci.cvds.tdd.registry con la enumeración: <br>
+~~~
+package edu.eci.cvds.tdd.registry;
+
+public enum RegisterResult {
+        DEAD, UNDERAGE, INVALID_AGE, VALID, DUPLICATED
+}
+~~~
