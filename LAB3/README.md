@@ -278,3 +278,26 @@ la diferencia es que con el comando mvn package se ejecuta cada resultado indepe
 ![image](https://user-images.githubusercontent.com/54339107/131949408-ec471543-9b19-4cd7-881f-5fd47afadbb9.png)
 
 ![image](https://user-images.githubusercontent.com/54339107/131949389-29711c85-ad75-4a59-831a-68d305bc91ff.png)
+
+## FINALIZAR EL EJERCICIO
+
+Piense en los casos de equivalencia que se pueden generar del ejercicio para la registraduría, dadas las condiciones. Deben ser al menos 5.
+
+Complete la implementación del método registerVoter en la clase Registry.java para retornar el resultado esperado según la entrada.
+
+Complete la implementación de la clase RegistryTest.java con (al menos) un método por cada clase de equivalencia, creando diferentes personas y validando que el resultado sea el esperado.
+
+## EJERCICIO "DESCUENTO DE TARIFAS"
+## REALIZAR DISEÑO DE PRUEBAS
+
+* Para realizar de forma correcta el diseño de sus pruebas responda las preguntas que se encuentran en el siguiente documento.
+IMPLEMENTACIÓN DE LAS PRUEBAS 
+Descargue el archivo aerodescuentos.jar y adicione esta nueva dependencia en el archivo pom.xml de su proyecto.
+Para adicionar una librería personalizada al repositorio local de maven puede ejecutar el siguiente comando.
+~~~
+$ mvn install:install-file -Dfile=aerodescuentos-1.0.0.jar -DgroupId=edu.eci.cvds -DartifactId=aerodescuentos -Dversion=1.0.0 -Dpackaging=jar
+~~~
+* Cree el archivo TarifasTest.java en el directorio src/test/java/edu/eci/cvds/tdd/aerodescuentos.
+Realice la implementación de las pruebas propuestas en la etapa de diseño de pruebas en esta clase. Para sus pruebas debe usar el método "calculoTarifa" de la clase edu.eci.cvds.tdd.aerodescuentos.CalculadorDescuentos, que se encuentran dentro del JAR de la librería personalizada.
+
+* Ejecute el comando de Maven para las fases de compilación y pruebas. Verifique el resultado exitoso de todas las pruebas y el reporte generado.
