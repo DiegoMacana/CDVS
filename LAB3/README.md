@@ -282,11 +282,11 @@ la diferencia es que con el comando mvn package se ejecuta cada resultado indepe
 ## FINALIZAR EL EJERCICIO
 
 Piense en los casos de equivalencia que se pueden generar del ejercicio para la registraduría, dadas las condiciones. Deben ser al menos 5. <br>
-1. age>=18
-2. gender=MALE o gender=FEMALE o gender=UNIDENTIFIED 
-3. alive=true o alive=false
-4. DUPLICATED=true o DUPLICATED=false
-5. VALID=true o VALID=false
+1. age>=18 para una edad validad.
+2. verificar que el id de la persona sea valido.
+3. verificar si la persona esta muerta o viva.
+4. para DUPLICATED el id no puede estar más de una vez. 
+5. verificar que el id este registrado.
 
 Complete la implementación del método registerVoter en la clase Registry.java para retornar el resultado esperado según la entrada.
 
