@@ -34,8 +34,9 @@ Edite el archivo pom.xml y realice las siguientes actualizaciones:
 
 * Ejecute los comandos necesarios de Maven, para compilar el proyecto y verificar que el proyecto se creó correctamente y los cambios realizados al archivo pom no generan inconvenientes.
 
+* Busque el comando requerido para ejecutar las pruebas unitarias de un proyecto desde Maven y ejecútelo sobre el proyecto. Se debe ejecutar la clase AppTest con resultado exitoso.
 
 ![image](https://user-images.githubusercontent.com/54339107/131946130-0c56b702-f57f-4583-99eb-96442d8b212b.png)
 
 
-* Busque el comando requerido para ejecutar las pruebas unitarias de un proyecto desde Maven y ejecútelo sobre el proyecto. Se debe ejecutar la clase AppTest con resultado exitoso.
+
