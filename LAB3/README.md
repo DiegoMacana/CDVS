@@ -303,7 +303,11 @@ Para adicionar una librería personalizada al repositorio local de maven puede e
 ~~~
 $ mvn install:install-file -Dfile=aerodescuentos-1.0.0.jar -DgroupId=edu.eci.cvds -DartifactId=aerodescuentos -Dversion=1.0.0 -Dpackaging=jar
 ~~~
-![image](https://user-images.githubusercontent.com/54339107/131953215-bd04a407-06d2-438d-8776-508ce00763de.png)
+![image](https://user-images.githubusercontent.com/59974540/132549470-444a9f27-06e8-4fff-b7cd-d94cfd9ec756.png)
+![image](https://user-images.githubusercontent.com/59974540/132549500-0f074957-cda9-4f59-82ad-6a3db2375c99.png)
+![image](https://user-images.githubusercontent.com/59974540/132549528-f0cffc36-8711-4ff5-8f97-0e93e3533f27.png)
+
+
 
 * Cree el archivo TarifasTest.java en el directorio src/test/java/edu/eci/cvds/tdd/aerodescuentos.
 Realice la implementación de las pruebas propuestas en la etapa de diseño de pruebas en esta clase. Para sus pruebas debe usar el método "calculoTarifa" de la clase edu.eci.cvds.tdd.aerodescuentos.CalculadorDescuentos, que se encuentran dentro del JAR de la librería personalizada.
