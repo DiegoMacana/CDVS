@@ -4,7 +4,7 @@
   <groupId>edu.eci.cvds</groupId>
   <artifactId>ClasesEquivalencia</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>ClasesEquivalencia</name>
   <url>http://maven.apache.org</url>
    <properties>

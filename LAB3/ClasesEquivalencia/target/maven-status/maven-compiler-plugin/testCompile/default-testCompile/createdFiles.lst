@@ -1,7 +1,3 @@
-edu\eci\cvds\tdd\registry\Person.class
 edu\eci\cvds\tdd\registry\RegistryTest.class
-edu\eci\cvds\tdd\registry\Gender.class
-edu\eci\cvds\tdd\AppTest.class
-edu\eci\cvds\tdd\registry\RegisterResult.class
 edu\eci\cvds\tdd\aerodescuentos\TarifasTest.class
-edu\eci\cvds\tdd\registry\Registry.class
+edu\eci\cvds\tdd\AppTest.class
