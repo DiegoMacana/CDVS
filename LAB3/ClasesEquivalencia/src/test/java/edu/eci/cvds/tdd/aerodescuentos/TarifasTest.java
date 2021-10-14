@@ -13,8 +13,6 @@ import org.junit.Test;
  */
 public class TarifasTest {
    
-    
-    
     //verificar que no cumple con ninguna condicion para un descuento.
     // tarifa base 
     @Test
@@ -96,5 +94,4 @@ public class TarifasTest {
     
     
     
-    
-}
+   
